@@ -1,0 +1,8 @@
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\bin\Debug\vas.txt
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\bin\Debug\Vasmegye.exe.config
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\bin\Debug\Vasmegye.exe
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\bin\Debug\Vasmegye.pdb
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\obj\Debug\Vasmegye.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\obj\Debug\Vasmegye.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\obj\Debug\Vasmegye.exe
+C:\Users\cisco\source\repos\Vasmegye\Vasmegye\obj\Debug\Vasmegye.pdb
